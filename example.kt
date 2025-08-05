@@ -76,15 +76,8 @@ fun Application.configureRouting() {
             )
             call.respond(jsonResponse)
         }
-
-        /*get("/pvgis") {
-            val jsonResponse = pvg.getRadiation(
-                cclient,
-                59.91, 10.75, 35, 0
-            )
-            call.respond(jsonResponse)
-        }*/
     }
 }
+
 
 
