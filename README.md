@@ -11,4 +11,4 @@ We also have fetchRimData for certain technicalities, using rim.k8s.met.no.
 Perhaps I'll translate the short whitepaper I wrote on this one day...
 
 ## Documentation
-I won't write any, and I don't recommend looking into the code, since this project is going to be superseded by [Frost Met Wrapper C++](https://github.com/jalya001/frost-met-wrapper).
+I won't write any, and I don't recommend looking into the code (rife with magic numbers and fragmented logic), since this project is going to be superseded by [Frost Met Wrapper C++](https://github.com/jalya001/frost-met-wrapper).
